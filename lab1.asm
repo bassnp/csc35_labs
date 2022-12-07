@@ -1,6 +1,3 @@
-# lab1.asm
-# Jaden Bruha
-
 .intel_syntax noprefix
 .data
 
