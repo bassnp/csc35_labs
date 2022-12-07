@@ -1,4 +1,4 @@
-# Jaden Bruha - CSC 35 - Lab 5
+# CSC 35 - Lab 5
 
 .intel_syntax noprefix
 .data
