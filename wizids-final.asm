@@ -1,5 +1,6 @@
-# Jaden Bruha - CSC 35 - Wizid-Game Project
-# Took about 3 nights in total to do, i would guess for a total of 15 hours
+#
+# Example output round : https://media.discordapp.net/attachments/762826315387633664/1049588018090102794/image.png?width=532&height=1193
+#
 
 .intel_syntax noprefix
 .data
