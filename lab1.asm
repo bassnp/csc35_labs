@@ -4,7 +4,7 @@
 Greeting:
     .ascii "Wassup world.\n\0"
 Name:
-    .ascii "My name is Jaden Bruha\n\0"
+    .ascii "My name is \n\0"
 Quote:
     .ascii "DO SOMETHING FUN THIS WEEKEND! - Devin Cook\n\0"
 Year:
