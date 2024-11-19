@@ -28,7 +28,7 @@ trophy_2:
     .ascii " |) |\n '-|.        |-'\n   \\::.      /\n    ':::.  .'\n      \\   /\n       | |\n    _./___\\._\n\n\0"
 
 credits:
-    .ascii "         Written by Jaden Bruha\n\0"
+    .ascii "\n\0"
 init_question:
     .ascii "\nHow many players are there? (2-10): \0"
 
